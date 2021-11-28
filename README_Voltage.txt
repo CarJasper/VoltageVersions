@@ -2,6 +2,14 @@ Hello this is the Voltage Repository for our final project!
 Remember to save the most up to date version of Voltage Here
 Have a nice day!
 
+THINGS TO WORK ON
+- One way platform script is still buggy, take a look if your able
+- We have no enemies yet, I (CJ) have a hard time doing enemy AI so can someone else pick up that baton
+- Need to figure out power ups. 
+- We need sound and art for everything.
+- Once we get enemies we can create actual levels, which is needed to figure out our scoring system.
+
+
 NOTES
 
 -When enemies are hit with a projectile the event 'Hit' will be triggered
